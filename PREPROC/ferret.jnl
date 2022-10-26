@@ -1,0 +1,7 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.96  
+ ! Linux 2.6.32-573.7.1.el6.x86_64 64-bit - 12/02/15
+ ! 17-Jun-20 10:14     
+
+use flx_gpp_2011.nc
+sh d
